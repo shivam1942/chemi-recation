@@ -1,3 +1,5 @@
+#read readme.md first
+
 author = "Shivam pandey"
 
 print("welcome to chemi recation app")
